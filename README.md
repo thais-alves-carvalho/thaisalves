@@ -1,5 +1,5 @@
-# Linguagens e Ferramentas
+## Linguagens e Ferramentas
 
-## Python
-## SQL
-## Data Studio 
+### Python
+### SQL
+### Data Studio 

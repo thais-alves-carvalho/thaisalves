@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="Página-1" id="IGH3SijZC0XCXyayBciE">
-    <mxGraphModel dx="1961" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1961" dy="1769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,41 +19,56 @@
         <mxCell id="ISXqMz2ciirlBahKiHjV-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ISXqMz2ciirlBahKiHjV-1" target="ISXqMz2ciirlBahKiHjV-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ISXqMz2ciirlBahKiHjV-1" value="Calculo do balanço de potencia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ISXqMz2ciirlBahKiHjV-1" value="Calculo do balanço de potencia" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="350" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ISXqMz2ciirlBahKiHjV-2" value="Geração eóica&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="110" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ISXqMz2ciirlBahKiHjV-4" value="Necessidade térmica adicional" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ISXqMz2ciirlBahKiHjV-4" value="Necessidade térmica adicional" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="550" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ISXqMz2ciirlBahKiHjV-6" value="Geração solar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ISXqMz2ciirlBahKiHjV-6" value="Geração solar" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="110" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ISXqMz2ciirlBahKiHjV-8" value="Geração inflexivel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ISXqMz2ciirlBahKiHjV-8" value="Geração inflexivel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="110" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ISXqMz2ciirlBahKiHjV-9" value="Carga" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ISXqMz2ciirlBahKiHjV-9" value="Carga" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="110" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ISXqMz2ciirlBahKiHjV-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ISXqMz2ciirlBahKiHjV-14" target="ISXqMz2ciirlBahKiHjV-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ISXqMz2ciirlBahKiHjV-14" value="&lt;div&gt;Capacidade instalada Futura&lt;/div&gt;&lt;div&gt;aba &quot;Ralie&quot;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="-310" y="-10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ISXqMz2ciirlBahKiHjV-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ISXqMz2ciirlBahKiHjV-15" target="ISXqMz2ciirlBahKiHjV-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ISXqMz2ciirlBahKiHjV-15" value="&lt;div&gt;Fator de Capacidade&lt;/div&gt;&lt;div&gt;aba &quot;Fatores&quot;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="-310" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ISXqMz2ciirlBahKiHjV-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ISXqMz2ciirlBahKiHjV-16" target="ISXqMz2ciirlBahKiHjV-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ISXqMz2ciirlBahKiHjV-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ISXqMz2ciirlBahKiHjV-16" target="ISXqMz2ciirlBahKiHjV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ISXqMz2ciirlBahKiHjV-16" value="&lt;div&gt;Multiplicação para encontrar a geração esperada&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="-110" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ISXqMz2ciirlBahKiHjV-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ISXqMz2ciirlBahKiHjV-27" target="ISXqMz2ciirlBahKiHjV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ISXqMz2ciirlBahKiHjV-27" value="Inflex térmicas centralizadas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ISXqMz2ciirlBahKiHjV-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ISXqMz2ciirlBahKiHjV-29" target="ISXqMz2ciirlBahKiHjV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ISXqMz2ciirlBahKiHjV-29" value="Biomassa" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

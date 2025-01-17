@@ -1,11 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="Página-1" id="ybAKSHy_9_q8ZGuqgYx6">
-    <mxGraphModel dx="1621" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1862" dy="1760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0ieh1-YJjxhQ4tJqL_PZ-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0ieh1-YJjxhQ4tJqL_PZ-49" target="0ieh1-YJjxhQ4tJqL_PZ-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0ieh1-YJjxhQ4tJqL_PZ-49" value="Aba &quot;Despacho VS Reserva&quot; M4" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-240" width="560" height="400" as="geometry" />
+          <mxGeometry x="-230" y="-15" width="560" height="510" as="geometry" />
         </mxCell>
         <mxCell id="0ieh1-YJjxhQ4tJqL_PZ-1" value="VPL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="140" width="120" height="60" as="geometry" />
@@ -20,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0ieh1-YJjxhQ4tJqL_PZ-3" value="RF Mensal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="330" y="50" width="120" height="30" as="geometry" />
+          <mxGeometry x="340" y="50" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0ieh1-YJjxhQ4tJqL_PZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0ieh1-YJjxhQ4tJqL_PZ-6" target="0ieh1-YJjxhQ4tJqL_PZ-2">
           <mxGeometry relative="1" as="geometry" />
@@ -112,14 +115,23 @@
         <mxCell id="0ieh1-YJjxhQ4tJqL_PZ-44" value="Projeção CVU&lt;div&gt;oportunidade&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-130" y="350" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="0ieh1-YJjxhQ4tJqL_PZ-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0ieh1-YJjxhQ4tJqL_PZ-52" target="0ieh1-YJjxhQ4tJqL_PZ-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0ieh1-YJjxhQ4tJqL_PZ-52" value="Testa reserva" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="450" y="370" width="120" height="30" as="geometry" />
+          <mxGeometry x="200" y="520" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0ieh1-YJjxhQ4tJqL_PZ-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0ieh1-YJjxhQ4tJqL_PZ-53" target="0ieh1-YJjxhQ4tJqL_PZ-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0ieh1-YJjxhQ4tJqL_PZ-53" value="Multa" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="580" y="370" width="120" height="30" as="geometry" />
+          <mxGeometry x="354" y="520" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0ieh1-YJjxhQ4tJqL_PZ-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="0ieh1-YJjxhQ4tJqL_PZ-55" target="0ieh1-YJjxhQ4tJqL_PZ-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0ieh1-YJjxhQ4tJqL_PZ-55" value="Regra PI - P5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="420" width="120" height="30" as="geometry" />
+          <mxGeometry x="40" y="420" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
